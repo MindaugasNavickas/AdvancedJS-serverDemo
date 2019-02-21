@@ -17,6 +17,7 @@
   "homepage": "https://github.com/MindaugasNavickas/AdvancedJS-reactAPI#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13"
   }
 }
